@@ -1,0 +1,14 @@
+C:\Users\permy\source\repos\Function\Function\bin\Debug\Function.exe.config
+C:\Users\permy\source\repos\Function\Function\bin\Debug\Function.exe
+C:\Users\permy\source\repos\Function\Function\bin\Debug\Function.pdb
+C:\Users\permy\source\repos\Function\Function\obj\Debug\Function.csprojAssemblyReference.cache
+C:\Users\permy\source\repos\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\permy\source\repos\Function\Function\obj\Debug\Function.exe
+C:\Users\permy\source\repos\Function\Function\obj\Debug\Function.pdb
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\bin\Debug\Function.exe.config
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\bin\Debug\Function.exe
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\bin\Debug\Function.pdb
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\obj\Debug\Function.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\obj\Debug\Function.exe
+C:\Users\permy\Desktop\Задания2\Function(3)\Function\obj\Debug\Function.pdb
